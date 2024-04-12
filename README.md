@@ -5,7 +5,7 @@
 |    電子郵件     |  C109252106@nkust.edu.tw        |
 |      選修       |     智慧城市導論                    |
 |      興趣       |         攝影                           |
-|    目前狀態     |       lose love                    |
+|    打手槍次數頻率     |       每天三餐飯後+睡前                    |
 
 # My QR Code
 <img src="https://s05.calm9.com/qrcode/2024-04/WDMQFEIIM0.png" width=300 height=300/>
