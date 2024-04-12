@@ -8,7 +8,7 @@
 |   喜歡的音樂類型    | 抒情饒舌                       |
 
 # My QR Code
-<img src="https://s05.calm9.com/qrcode/2024-04/WDMQFEIIM0.png" width=300 height=300/>
+<![3WO1VL6OC1](https://github.com/mantou1030/2024.03.01-/assets/161834837/1b4d1f53-eb8c-4b84-95b4-ff4e6b2088b7)>
 
 
 # "My music recommendations
@@ -26,6 +26,10 @@ alt="(G)I-DLE - '퀸카 (Queencard)" width="400" height="250" border="10" /></a>
 <a href="https://youtu.be/5cYb-rJhm6I?si=tKE1UoSSsn6yLjMj" target="_blank"><img src="http://img.youtube.com/vi/tKE1UoSSsn6yLjMj/0.jpg"
 alt="告五人 - 給你一瓶魔法藥水" width="400" height="250" border="10" /></a>
 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=uE6ZAj4Ewhs" target="_blank"><img src="http://img.youtube.com/vi/uE6ZAj4Ewhs/0.jpg" 
+alt="毫米波生理訊號偵測" width="400" height="250" border="10" /></a>
+<br>影片取自 youtube
 
 
 
