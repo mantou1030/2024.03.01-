@@ -16,19 +16,16 @@
 ## 1. (G)I-DLE - '퀸카 (Queencard) <br>
 ### https://youtu.be/7HDeem-JaSY?si=Gjao6yYH7Ria0EYU
 
-<a href="https://youtu.be/7HDeem-JaSY?si=Gjao6yYH7Ria0EYU" target="_blank"><img src="http://img.youtube.com/vi/Gjao6yYH7Ria0EYU/0.jpg" 
-alt="(G)I-DLE - '퀸카 (Queencard)" width="400" height="250" border="10" /></a>
+<a href="https://youtu.be/7HDeem-JaSY?si=Gjao6yYH7Ria0EYU" target="_blank"><img src="http://img.youtube.com/vi/Gjao6yYH7Ria0EYU/0.jpg" alt="(G)I-DLE - '퀸카 (Queencard)" width="400" height="250" border="10" /></a>
 
 ## 2. 告五人 - 給你一瓶魔法藥水 <br>
 ### https://youtu.be/5cYb-rJhm6I?si=tKE1UoSSsn6yLjMj
 
-<a href="https://youtu.be/5cYb-rJhm6I?si=tKE1UoSSsn6yLjMj" target="_blank"><img src="http://img.youtube.com/vi/tKE1UoSSsn6yLjMj/0.jpg" 
-alt="告五人 - 給你一瓶魔法藥水" width="400" height="250" border="10" /></a>
+<a href="https://youtu.be/5cYb-rJhm6I?si=tKE1UoSSsn6yLjMj" target="_blank"><img src="http://img.youtube.com/vi/tKE1UoSSsn6yLjMj/0.jpg" alt="告五人 - 給你一瓶魔法藥水" width="400" height="250" border="10" /></a>
 
 ## 3. GENBLUE幻藍小熊 - 1000次也不夠的想念 <br>
 ### https://youtu.be/atXkFdA6mqU?si=n9k2eH_C6cwrYOve
 
-<a href="https://youtu.be/atXkFdA6mqU?si=n9k2eH_C6cwrYOve" target="_blank"><img src="http://img.youtube.com/vi/n9k2eH_C6cwrYOve/0.jpg" 
-alt="GENBLUE‘1000次也不夠的想念’ Official Music Video" width="400" height="250" border="10" /></a>
+<a href="https://youtu.be/atXkFdA6mqU?si=n9k2eH_C6cwrYOve" target="_blank"><img src="http://img.youtube.com/vi/n9k2eH_C6cwrYOve/0.jpg" alt="GENBLUE‘1000次也不夠的想念’ Official Music Video" width="400" height="250" border="10" /></a>
 
 <br> 影片來源 YouTube
