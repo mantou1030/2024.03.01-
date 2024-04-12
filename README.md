@@ -9,3 +9,8 @@
 
 # My QR Code
 <img src="https://s05.calm9.com/qrcode/2024-04/WDMQFEIIM0.png" width=300 height=300/>
+
+
+# "My music recommendations
+## 1. (G)I-DLE - '퀸카 (Queencard)
+### https://youtu.be/7HDeem-JaSY?si=Gjao6yYH7Ria0EYU
