@@ -5,7 +5,7 @@
 |    電子郵件     |  C109252106@nkust.edu.tw        |
 |      選修       |     智慧城市導論                    |
 |      興趣       |         攝影                           |
-|    打手槍次數頻率     |       每天三餐飯後+睡前                    |
+|   喜歡的音樂類型    |  台灣團體 (獨立樂團、饒舌團體、偶像團體)                         |
 
 # My QR Code
 <img src="https://s05.calm9.com/qrcode/2024-04/WDMQFEIIM0.png" width=300 height=300/>
