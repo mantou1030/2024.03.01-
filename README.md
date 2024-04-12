@@ -28,7 +28,6 @@ alt="ChatGPT 介紹 " width="400" height="250" border="10" /></a>
 ## 3. GENBLUE幻藍小熊 - 1000次也不夠的想念
 ### https://youtu.be/atXkFdA6mqU?si=n9k2eH_C6cwrYOve
 
-<a href="https://youtu.be/atXkFdA6mqU?si=NKTjicyjQzUk3wK8" target="_blank"><img src="http://img.youtube.com/vi/NKTjicyjQzUk3wK8/0.jpg" 
- width="400" height="250" border="10" /></a>
+<a href="https://youtu.be/atXkFdA6mqU?si=NKTjicyjQzUk3wK8" target="_blank"><img src="http://img.youtube.com/vi/NKTjicyjQzUk3wK8/0.jpg" width="400" height="250" border="10" /></a>
 
 <br> 影片來源 YouTube
