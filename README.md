@@ -14,3 +14,11 @@
 # "My music recommendations
 ## 1. (G)I-DLE - '퀸카 (Queencard)
 ### https://youtu.be/7HDeem-JaSY?si=Gjao6yYH7Ria0EYU
+
+## 2. 告五人 - 給你一瓶魔法藥水
+### https://youtu.be/5cYb-rJhm6I?si=tKE1UoSSsn6yLjMj
+
+## 3. GENBLUE幻藍小熊 - 1000次也不夠的想念
+### https://youtu.be/atXkFdA6mqU?si=n9k2eH_C6cwrYOve
+
+<br> 影片來源 YouTube
