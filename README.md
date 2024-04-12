@@ -7,7 +7,5 @@
 |      興趣       |         攝影                           |
 |    目前狀態     |       lose love                    |
 
-# 最大字體
-## 次大字體
-### 次次大字體
+# My QR Code
 <img src="https://s05.calm9.com/qrcode/2024-04/WDMQFEIIM0.png" width=300 height=300/>
