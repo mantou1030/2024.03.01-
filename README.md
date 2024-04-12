@@ -12,6 +12,11 @@
 
 
 # "My music recommendations
+
+#### ChatGPT 介紹 <br>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WizoCwjEKsg" target="_blank"><img src="http://img.youtube.com/vi/WizoCwjEKsg/0.jpg" 
+alt="ChatGPT 介紹 " width="400" height="250" border="10" /></a>
+
 ## 1. (G)I-DLE - '퀸카 (Queencard)
 ### https://youtu.be/7HDeem-JaSY?si=Gjao6yYH7Ria0EYU
 
